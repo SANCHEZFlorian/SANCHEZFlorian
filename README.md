@@ -44,7 +44,7 @@ Il peut y avoir de tout :
 * PHP
 * SQL
 * Laravel
-* Et même du Solana
+* Et d'autres 
   
 J'ai quand même une préférence pour le JavaScript, c'est pour cela que vous y retrouverez par exemple un Bot Discord en JavaScript, et que mes projets personnels sont coder quasiment qu'avec du JavaScript en front et en back. 
 
