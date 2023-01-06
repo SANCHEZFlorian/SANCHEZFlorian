@@ -19,9 +19,19 @@ Here are some ideas to get you started:
 
 ## Qui suis-je ? 
 Je suis un développeur web Junior, plutôt orienté JavaScript, mais je souhaite en apprendre le plus possible sur tout type de technologie. Je ne suis pas forcément orienté du côté Front ou Back, les deux m'intéressent.  
-J'ai 25 ans _(17/01/1996)_.  
-Je suis en formation chez O'Clock, qui se terminera le 24 décembre.
+J'ai 26 ans _(17/01/1996)_.  
 
+J'ai suivi une formation chez l'école O'Clock de développeur web et web mobile _(promotion Wonderland, Juillet 2021 - Décembre 2021)_.
+Actuellement, je suis employé chez 3G Immo en tant que développeur fullstack orienté Laravel.
+
+Côté vie "non-pro", je suis : 
+- Un Gamer
+- Un Geek
+- Un fan de technologie en tout genre
+- Un motard
+- Président d'une association multigaming _([OctoLama](https://twitter.com/OctoLama))_
+
+Et je passe mon temps à jouer aux jeux vidéos, à coder, à m'amuser sur PhotoShop et bien entendu, gérer mon association.
 
 ## Que contient-il ? 
 Ceci est mon répertoire de code personnel, dans le sens où ce sont des projets personnels et non professionnels.
@@ -33,13 +43,13 @@ Il peut y avoir de tout :
 * JavaScript
 * PHP
 * SQL
+* Laravel
+* Et même du Solana
   
-J'ai quand même une préférence pour le JavaScript, c'est pour cela que vous y retrouverez par exemple un Bot Discord en Discord.js
+J'ai quand même une préférence pour le JavaScript, c'est pour cela que vous y retrouverez par exemple un Bot Discord en JavaScript, et que mes projets personnels sont coder quasiment qu'avec du JavaScript en front et en back. 
 
 ## Où me contacter ?
-Si vous souhaitez me contacter, que ce soit pour une offre d'emploi en tant que développeur Web, ou pour me soumettre des idées d'amélioration de certains de mes projets, n'hésitez pas à les faire soit via GitHub, ou alors :  
+Si vous souhaitez me contacter, que ce soit pour une offre d'emploi en tant que développeur Web, ou pour me soumettre des idées d'amélioration de certains de mes projets, ou juste pour discuter, n'hésitez pas à les faire soit via GitHub, ou alors :  
 
-__Téléphone :__ +33 6 12 84 07 56  
-__Mail :__ sanchez.florian@outlook.fr  
 __LinkedIn :__ [SANCHEZ Florian](https://www.linkedin.com/in/sanchez-florian/)  
 __Twitter :__ [@FlorianWebDev](https://twitter.com/FlorianWebDev)  
