@@ -1,19 +1,7 @@
 ### Hello there 👋
 
-<!--
-**SANCHEZFlorian/SANCHEZFlorian** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+⚠️ EN COURS DE RECONSTRUCTION ⚠️
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
 ![Cover](https://github.com/SANCHEZFlorian/SANCHEZFlorian/blob/main/img/carbon.png)
 # Mon répertoire GitHub
 
@@ -32,6 +20,40 @@ Côté vie "non-pro", je suis :
 - Président d'une association multigaming _([OctoLama](https://twitter.com/OctoLama))_
 
 Et je passe mon temps à jouer aux jeux vidéos, à coder, à m'amuser sur PhotoShop et bien entendu, gérer mon association.
+
+## Compétences : 
+Voici les différents langages que j'utilise :
+
+<img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" /> <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" /> <img src="https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E" />
+https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white
+
+Pour les bases de données : 
+
+https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white
+https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white
+
+Pour les Frameworks et les Library :
+
+https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB
+https://img.shields.io/badge/Vue.js-35495E?style=for-the-badge&logo=vuedotjs&logoColor=4FC08D
+https://img.shields.io/badge/npm-CB3837?style=for-the-badge&logo=npm&logoColor=white
+https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white
+https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white
+
+Pour les outils :
+
+https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white
+https://img.shields.io/badge/mac%20os-000000?style=for-the-badge&logo=apple&logoColor=white
+https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white
+https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white
+https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white
+https://img.shields.io/badge/Slack-4A154B?style=for-the-badge&logo=slack&logoColor=white
+https://img.shields.io/badge/Laragon-0E83CD?style=for-the-badge&logo=Laragon&logoColor=white
+https://img.shields.io/badge/Xampp-F37623?style=for-the-badge&logo=xampp&logoColor=white
+https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=Postman&logoColor=white
+https://img.shields.io/badge/VSCode-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white
+
+<img src="" />
 
 ## Que contient-il ? 
 Ceci est mon répertoire de code personnel, dans le sens où ce sont des projets personnels et non professionnels.
