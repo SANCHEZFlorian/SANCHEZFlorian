@@ -70,3 +70,8 @@ Si vous souhaitez me contacter, que ce soit pour une offre d'emploi en tant que 
 
 __LinkedIn :__ [SANCHEZ Florian](https://www.linkedin.com/in/sanchez-florian/)  
 __Twitter :__ [@FlorianWebDev](https://twitter.com/FlorianWebDev)  
+
+## Statistique GitHub :
+<img src="https://github-readme-stats.vercel.app/api?username=SANCHEZFlorian&theme=dark"/> <img src="https://github-readme-streak-stats.herokuapp.com/?user=SANCHEZFlorian&theme=radical"/>
+
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=SANCHEZFlorian&theme=vue"/>
